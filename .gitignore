@@ -1,0 +1,41 @@
+# STM32CubeIDE generated files and folders
+.metadata/
+.settings/
+.project
+.cproject
+.mxproject
+*.launch
+Debug/
+Release/
+build/
+bin/
+obj/
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.su
+*.d
+*.log
+*.lst
+*.bak
+*.srec
+*.sym
+
+# CubeMX related files
+*.ioc.bak
+*.xml.bak
+
+# Keil/IAR specific files if present (though less likely with CubeIDE)
+*.uvoptx
+*.uvprojx
+*.ewp
+*.ewd
+*.eww
+
+# Operating system and editor specific files
+.DS_Store
+Thumbs.db
+*.swp
+*~
