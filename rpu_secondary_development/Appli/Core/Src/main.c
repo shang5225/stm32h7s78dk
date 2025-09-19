@@ -125,6 +125,7 @@ int main(void)
 	  HAL_GPIO_TogglePin(GPIOO, GREEN_LED_Pin);
 	  HAL_Delay(100);
 #endif
+
   }
   /* USER CODE END 3 */
 }
